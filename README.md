@@ -26,3 +26,6 @@
   <a href = "mailto:almeidabg11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-almeida-404993212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<h1>Visitas!</h1>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{almeidaa11}/count.svg)
