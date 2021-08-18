@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almeidaa11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidaa11&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<h1>Conhecimentos!</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Bruno-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
@@ -19,8 +20,8 @@
   <img align="center" alt="Bruno-Canvas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Bruno-Trello" height="70" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
 </div>
-  
-  ##
+<hr> 
+<h1>Redes Sociais!</h1>
 <div>  
   <a href="https://www.instagram.com/guimaraess_.bruno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:almeidabg11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
