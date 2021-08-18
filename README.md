@@ -1,6 +1,6 @@
 ### Olá! Sou o Bruno Almeida 👋
 
-- 🔭 Estou atualmente no 6° semestre de Ciência da Computação
+- 🙋‍♂️Estou atualmente no 6° semestre de Ciência da Computação
 - 📚 Estudando a linguagem Dart
 - 🖥️ Estou em busca de vaga de emprego/estágio
 - 📫 Contate-me pelo e-mail: almeidabg11@gmail.com
