@@ -2,7 +2,7 @@
 
 - 🙋‍♂️Estou atualmente no 6° semestre de Ciência da Computação
 - 📚 Estudando a linguagem Dart e Bootstrap, me aprofundando em HTML5, CSS e JS
-- 🖥️ Estou em busca de vaga de emprego/estágio
+- 🖥️ Estou em busca de vaga de emprego/estágio na área de tecnologia
 - 📫 Contate-me pelo e-mail: almeidabg11@gmail.com
 
 <div>
