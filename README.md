@@ -1,7 +1,7 @@
 ### Olá! Sou o Bruno Almeida 👋
 
 - 🙋‍♂️Estou atualmente no 6° semestre de Ciência da Computação
-- 📚 Estudando a linguagem Dart
+- 📚 Estudando a linguagem Dart e Bootstrap, me aprofundando em HTML5, CSS e JS
 - 🖥️ Estou em busca de vaga de emprego/estágio
 - 📫 Contate-me pelo e-mail: almeidabg11@gmail.com
 
