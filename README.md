@@ -1,4 +1,4 @@
-### Olá! Sou o Bruno Almeida 👋
+### Hey! I'm Bruno Almeida 👋
 
 - 🙋‍♂️Estou atualmente no 6° semestre de Ciência da Computação
 - 📚 Estudando a linguagem Dart e Bootstrap, me aprofundando em HTML5, CSS e JS
