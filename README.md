@@ -1,8 +1,7 @@
 ### Hey! I'm Bruno Almeida 👋
 
-- 🙋‍♂️ I'm currently in the 6th semester of Computer Science
-- 📚 Studying the language Dart and Bootstrap, improving the language HTML5, CSS and JS
-- 🖥️ I'm looking for a job in the technology area
+- 🙋‍♂️ I'm currently in the 7th semester of Computer Science
+- 📚 Studying the languages Java and Angular, improving the language HTML5, CSS
 - 📫 Contact me by e-mail: almeidabg11@gmail.com
 
 <div>
