@@ -21,6 +21,7 @@
   <img align="center" alt="Bruno-VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Bruno-Flutter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Bruno-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Bruno-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
 </div>
 <hr> 
 <h1>Social Media!</h1>
