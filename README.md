@@ -1,6 +1,6 @@
 ### Hey! I'm Bruno Almeida 👋
 
-- 🙋‍♂️ I'm currently in the 7th semester of Computer Science
+- 🙋‍♂️ I'm 21 years old and currently in the 7th semester of Computer Science
 - 📚 Studying the languages Java and Angular, improving the language HTML5, CSS
 - 📫 Contact me by e-mail: almeidabg11@gmail.com
 
